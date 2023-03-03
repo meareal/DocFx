@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Microsoft Power Platform Center of Excellence (CoE) Kit | Automation Engineering </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Microsoft Power Platform Center of Excellence (CoE) Kit | Automation Engineering ">
+    <meta name="generator" content="docfx ">
+  
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+  
+  <meta property="docfx:rel" content="../">
+  <meta property="docfx:newtab" content="true">
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="microsoft-power-platform-center-of-excellence-coe-kit">Microsoft Power Platform Center of Excellence (CoE) Kit</h1>
+
+<p>CoE is a starter kit, not an finishing kit. We don't install it just to check a box.</p>
+<p>The <code>Microsoft Power Platform CoE Starter Kit</code> is a collection of components and tools that are designed to help you get started with developing a strategy for adopting and supporting Microsoft Power Platform.</p>
+<p><img src="/images/coe-kit.png" alt="CoE Kit" title="CoE Kit"></p>
+<p>The kit provides some automation and tooling to help teams build monitoring and automation necessary to support a CoE. The foundation of the kit is a Microsoft Dataverse data model and workflows to collect resource information across the environments in the tenant. The kit includes multiple apps and Power BI analytics to view and interact with the data you collect. The kit also provides several templates and suggested patterns and practices for implementing CoE efforts.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Click <a href="https://learn.microsoft.com/en-us/power-platform/guidance/coe/starter-kit">here</a> for Microsoft CoE kit main doc page</p>
+</div>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Click <a href="https://www.youtube.com/embed/3eF__GY0Vzg">here</a> for a CoE Kit video overview</p>
+</div>
+<div class="embeddedvideo"><iframe src="https://www.youtube-nocookie.com/embed/3eF__GY0Vzg" frameborder="0" allowfullscreen="true"></iframe></div>
+<h2 id="how-to-install-the-kit">How to install the Kit</h2>
+<ol>
+<li>Create a new environment in Power Platform Admin Center</li>
+<li>Name it something like &quot;CoE Starter Kit&quot;</li>
+<li>Download desired version from its <a href="https://github.com/microsoft/coe-starter-kit/releases/">GitHub page</a></li>
+<li>Extract the zip file</li>
+<li>Import each component (following the recommeded order)</li>
+</ol>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Note: At the time of writing, Core Components is installed first, Audit Logs is installed second and Audit Components (also kown as Governance component) is installed third.</p>
+<p>Innovation and Nurture components are optional</p>
+</div>
+<div class="NOTE">
+<h5>Note</h5>
+<p>For more details on how to install the Kit please click <a href="https://learn.microsoft.com/en-us/power-platform/guidance/coe/setup?source=recommendations">here</a></p>
+</div>
+<h2 id="how-to-upgrade-the-kit">How to upgrade the Kit</h2>
+<ol>
+<li>Download desired version from its <a href="https://github.com/microsoft/coe-starter-kit/releases/">GitHub page</a></li>
+<li>Extract the zip file</li>
+<li>In the Power Platform Admin Center, select the CoE Kit environment and make a backup</li>
+<li>Import each component (following the recommeded order)</li>
+</ol>
+<div class="IMPORTANT">
+<h5>Important</h5>
+<p>Newer versions of the Kit may have dependencies or new requirements. Example, when updating to version 4.3 (February 2023) the <a href="https://learn.microsoft.com/en-us/power-platform/guidance/creator-kit/overview/">Creator Kit</a> had to be installed first</p>
+</div>
+<div class="NOTE">
+<h5>Note</h5>
+<p>For more details please click <a href="https://learn.microsoft.com/en-us/power-platform/guidance/coe/after-setup">here</a></p>
+</div>
+</article>
+          </div>
+
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/meareal/XForms/blob/master/C:/FHLBI/DocFX/Automation-Engineering-styled/CoE-Kit/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+      Copyright (c) - FHLB Indianapolis
+      
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

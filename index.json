@@ -1,0 +1,62 @@
+{
+  "CoE-Kit/alm-accelerator-component.html": {
+    "href": "CoE-Kit/alm-accelerator-component.html",
+    "title": "ALM Accelerator Component for Power Platform | Automation Engineering",
+    "keywords": "ALM Accelerator Component for Power Platform"
+  },
+  "CoE-Kit/audit-log.html": {
+    "href": "CoE-Kit/audit-log.html",
+    "title": "Audit Log Component | Automation Engineering",
+    "keywords": "Audit Log Component This is the second component in the CoE Kit that gets installed. The components in the Audit Log project connects to the Microsoft 365 audit log to gather telemetry data (unique users, launches) for apps. The flow uses a custom connector to connect to the Audit Log. Note Click here for more details Important The Center of Excellence (CoE) Starter Kit will work without this flow, but the usage information (app launches, unique users) in the Power BI dashboard will be blank."
+  },
+  "CoE-Kit/core-component.html": {
+    "href": "CoE-Kit/core-component.html",
+    "title": "Core Component | Automation Engineering",
+    "keywords": "Core Component This is the first component in the CoE Kit that gets installed. The components in the Core project sync all your resources into tables and build admin apps on top of that to help you get more visibility of the apps, flows, and makers in your environment. Additionally, apps like the Set App Permissions help with daily admin tasks. The core components solution contains assets relevant only to admins. Note Click here for more details"
+  },
+  "CoE-Kit/governance-component.html": {
+    "href": "CoE-Kit/governance-component.html",
+    "title": "Governance Component | Automation Engineering",
+    "keywords": "Governance Component Technically known as 'Audit Components' however referred as 'Governance Component'. This is the third component in the CoE Kit that gets installed. The components in the Governance project help gather additional information about your apps from your makers, or audit specific connectors or app usage. Note Click here for more details"
+  },
+  "CoE-Kit/index.html": {
+    "href": "CoE-Kit/index.html",
+    "title": "Microsoft Power Platform Center of Excellence (CoE) Kit | Automation Engineering",
+    "keywords": "Microsoft Power Platform Center of Excellence (CoE) Kit CoE is a starter kit, not an finishing kit. We don't install it just to check a box. The Microsoft Power Platform CoE Starter Kit is a collection of components and tools that are designed to help you get started with developing a strategy for adopting and supporting Microsoft Power Platform. The kit provides some automation and tooling to help teams build monitoring and automation necessary to support a CoE. The foundation of the kit is a Microsoft Dataverse data model and workflows to collect resource information across the environments in the tenant. The kit includes multiple apps and Power BI analytics to view and interact with the data you collect. The kit also provides several templates and suggested patterns and practices for implementing CoE efforts. Note Click here for Microsoft CoE kit main doc page Note Click here for a CoE Kit video overview How to install the Kit Create a new environment in Power Platform Admin Center Name it something like \"CoE Starter Kit\" Download desired version from its GitHub page Extract the zip file Import each component (following the recommeded order) Note Note: At the time of writing, Core Components is installed first, Audit Logs is installed second and Audit Components (also kown as Governance component) is installed third. Innovation and Nurture components are optional Note For more details on how to install the Kit please click here How to upgrade the Kit Download desired version from its GitHub page Extract the zip file In the Power Platform Admin Center, select the CoE Kit environment and make a backup Import each component (following the recommeded order) Important Newer versions of the Kit may have dependencies or new requirements. Example, when updating to version 4.3 (February 2023) the Creator Kit had to be installed first Note For more details please click here"
+  },
+  "CoE-Kit/innovation-component.html": {
+    "href": "CoE-Kit/innovation-component.html",
+    "title": "Innovation Component | Automation Engineering",
+    "keywords": "Innovation Component It contains assets that are relevant to everyone in the organization. Users can submit ideas for apps and flows that need building, and describe pain points with the current process. As users describe the process, they will provide information about personas involved, tools used, and measures for improvement. This information is then used to calculate an ROI and complexity score. Note Click [here]https://learn.microsoft.com/en-us/power-platform/guidance/coe/setup-innovationbacklog) for more details"
+  },
+  "CoE-Kit/nurture-component.html": {
+    "href": "CoE-Kit/nurture-component.html",
+    "title": "Nurture Component | Automation Engineering",
+    "keywords": "Nurture Component Helps sharing best practices and templates, and onboard new makers. The assets that are part of this solution can help develop a strategy for this motion. The nurture components solution contains assets that are relevant to everyone in the organization: admins, makers, and users of apps and flows. More information: Set up nurture components and Use nurture components Note Click here for more details"
+  },
+  "contact-us/index.html": {
+    "href": "contact-us/index.html",
+    "title": "Automation Engineering Team | Automation Engineering",
+    "keywords": "Automation Engineering Team TODO: Teams members, bios, etc."
+  },
+  "crm-data-upload/index.html": {
+    "href": "crm-data-upload/index.html",
+    "title": "Tibco Scribe replaced with Power Platform components | Automation Engineering",
+    "keywords": "Tibco Scribe replaced with Power Platform components Tibco Scribe Workbench has been replaced with Power Platform components (Power Apps and DataFlows) Tibco Scribe Workbench"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Automation Engineering Team | Automation Engineering",
+    "keywords": "Automation Engineering Team Welcome to the FHLBI's Automation Engineering's team Quick Start Notes: Please use top navigation links to ..."
+  },
+  "projects/_2023.html": {
+    "href": "projects/_2023.html",
+    "title": "Projects for 2023 | Automation Engineering",
+    "keywords": "Projects for 2023"
+  },
+  "projects/index.html": {
+    "href": "projects/index.html",
+    "title": "Add your introductions here! | Automation Engineering",
+    "keywords": "Add your introductions here! qwqw qwqwq"
+  }
+}

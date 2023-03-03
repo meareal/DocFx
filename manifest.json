@@ -1,0 +1,238 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/FHLBI/DocFX/Automation-Engineering-styled",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "CoE-Kit/alm-accelerator-component.md",
+      "output": {
+        ".html": {
+          "relative_path": "CoE-Kit/alm-accelerator-component.html",
+          "hash": "M8wkQkdaqWVl5YvW/Hfa5T5OAPqZ+Yq5ZE25JWhZII8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "CoE-Kit/audit-log.md",
+      "output": {
+        ".html": {
+          "relative_path": "CoE-Kit/audit-log.html",
+          "hash": "NOXVPWUjWfNc/OMDGTI7wdyr8c+P9AZ1X91PoE+x9WQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "CoE-Kit/core-component.md",
+      "output": {
+        ".html": {
+          "relative_path": "CoE-Kit/core-component.html",
+          "hash": "VpqYR8QiQk6W2FSq0b37EtIOw28OK0T4SKsVm20rpMQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "CoE-Kit/governance-component.md",
+      "output": {
+        ".html": {
+          "relative_path": "CoE-Kit/governance-component.html",
+          "hash": "x9kRP0aglrUJDErQdqYmhpZGNs6WgXta03Luz58glMk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "CoE-Kit/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "CoE-Kit/index.html",
+          "hash": "akRSxkVv6lDtUEsoDyJeKjCEu9bQzZyX9XHzMvlET0c="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "CoE-Kit/innovation-component.md",
+      "output": {
+        ".html": {
+          "relative_path": "CoE-Kit/innovation-component.html",
+          "hash": "HsOoRcouz7EB2dpvRInkoBhwK50TbW+Odo6dosiDw14="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "CoE-Kit/nurture-component.md",
+      "output": {
+        ".html": {
+          "relative_path": "CoE-Kit/nurture-component.html",
+          "hash": "UGKv1MUh31zhP/uu6OuqV0SdqQzdg/GeHn9woZQwgsU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "CoE-Kit/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "CoE-Kit/toc.html",
+          "hash": "axzylQxzijyDE4zyLVZdlloM5fXyS8ng0ifYPSaJpyE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contact-us/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "contact-us/index.html",
+          "hash": "YSU7UweygLgtFSOKasBm4h0DH24w98TdbhCpAl4P7vA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "contact-us/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "contact-us/toc.html",
+          "hash": "dQonqawU4mF5GQDBs2Qh62h4TMyucc/FIIT8ryu2/Jw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "crm-data-upload/images/tibco-scribe.png",
+      "output": {
+        "resource": {
+          "relative_path": "crm-data-upload/images/tibco-scribe.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "crm-data-upload/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "crm-data-upload/index.html",
+          "hash": "fAX6e0dPJSXIJyjuVF5i0oPTjUWE3Aq8RoCvrS07818="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "crm-data-upload/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "crm-data-upload/toc.html",
+          "hash": "3PR3bXtIaXMbYdrNE6nxGnHFVB9FPNDKf3D7cZFrOO8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/coe-kit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/coe-kit.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "xLUhzF4GGgAclk/Ulq6uPygPIp0htrHA1ZVmu3eFR7o="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "projects/_2023.md",
+      "output": {
+        ".html": {
+          "relative_path": "projects/_2023.html",
+          "hash": "DKzdwNN+aYPQzHIA4w467rdfh+qOsqtEr/1WCmgSWIw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "projects/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "projects/index.html",
+          "hash": "/VGOxWZvubJag17JhWN60BHOsrFNo0TzLK/TnvMRZQA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "projects/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "projects/toc.html",
+          "hash": "NK30OPTO00qsjAwNRIOiFgNjtL6xVqgPeCe5KLojJ6M="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "nQJD/4aCZTgpOf5PhOq2r/E0jkmrEDcMh3YAlLNqPNA="
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
