@@ -1,7 +1,7 @@
 /* COLOR VARIABLES*/
 :root {
   --header-bg-color: #003b5c; /* FHLBI Indigo Blue */
-  --header-ft-color: #86a340; /* FHLBI Peridot Green */
+  --header-ft-color: #fff; /* #86a340 FHLBI Peridot Green */
   --highlight-light: #5e92f3;
   --highlight-dark: #003c8f;
   --accent-dim: #e0e0e0;
